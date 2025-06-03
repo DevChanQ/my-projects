@@ -1,8 +1,6 @@
 ## Projects I've Worked On
 
----
-
-### 🚀 Featured Projects
+### Featured Projects 🚀
 
 [MyXSite](https://myxsite.ai) — Turn your profile into a website. Instantly.
 
@@ -16,9 +14,7 @@
 
 <img src="https://devjeff.info/arweave.svg" width="20" alt="Arweave logo"> [Arweave Fullstack Hack](https://community.ar.io/#/fullstack) — Hackathon landing page & signup backend
 
----
-
-### 🛠️ Other Projects
+### Other Projects 🛠️
 
 <img src="https://devjeff.info/arweave.svg" width="20" alt="Arweave logo"> [Permaweb Cookbook 2.0](https://cookbook.arweave.dev/) — Redesigned and developed a modern resource hub for Arweave.
 
