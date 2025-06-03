@@ -1,17 +1,27 @@
-## Projects that I have worked on...
+## Projects I've Worked On
 
-[MyXSite](https://myxsite.ai) - Turn your profile into a website. Instantly.
+---
 
-<img src="https://devjeff.info/aoComputer.svg" width="20"> [AO DevBot](https://devbot-preview_computerclub.ar.io) - AI powered coding assistant that helps you develop decentralised application on the AO Computer
+### 🚀 Featured Projects
 
-<img src="https://devjeff.info/github-logo.svg" width="20"> [react-native-svg-editor](https://github.com/DevChanQ/react-native-svg-editor) - The library that powers SVG Editor
+[MyXSite](https://myxsite.ai) — Turn your profile into a website. Instantly.
 
-<img src="https://devjeff.info/github-logo.svg" width="20"> [Pikabu tweak](https://github.com/DevChanQ/pikabu) - Volume Hud tweak for jailbroken iOS devices
+<img src="https://devjeff.info/aoComputer.svg" width="20" alt="AO DevBot logo"> [AO DevBot](https://devbot-preview_computerclub.ar.io) — AI-powered assistant for building decentralized apps on the AO Computer.
 
-<img src="https://devjeff.info/arweave.svg" width="20"> [Arweave Today](https://arweavehub.com/today) - daily dose of Arweave, delivered right to you
+<img src="https://devjeff.info/github-logo.svg" width="20" alt="GitHub logo"> [Pikabu Tweak](https://github.com/DevChanQ/pikabu) — Volume HUD tweak for jailbroken iOS devices.
 
-<img src="https://devjeff.info/arweave.svg" width="20"> [Permaweb Cookbook 2.0](https://cookbook.arweave.dev/) - Redesigned & developed cookbook 2.0 for the Arweave community
+<img src="https://devjeff.info/images/svg-editor-logo.png" width="20" alt="SVG Editor logo"> [SVG Editor](https://thumbnaillab.app) — Cross-platform vector graphic editor built with React Native.
 
-<img src="https://devjeff.info/images/svg-editor-logo.png" width="20"> [SVG Editor](https://thumbnaillab.app) - vector graphic designer app built with React Native
+<img src="https://devjeff.info/arweave.svg" width="20" alt="Arweave logo"> [Arweave Today](https://arweavehub.com/today) — Daily dose of Arweave news and updates.
 
-[Amiibo concept page](https://devjeff.info/amiibo?name=ken) - Cool concept site with fun animations built with Vue.js & gsap
+<img src="https://devjeff.info/arweave.svg" width="20" alt="Arweave logo"> [Arweave Fullstack Hack](https://community.ar.io/#/fullstack) — Hackathon landing page & signup backend
+
+---
+
+### 🛠️ Other Projects
+
+<img src="https://devjeff.info/arweave.svg" width="20" alt="Arweave logo"> [Permaweb Cookbook 2.0](https://cookbook.arweave.dev/) — Redesigned and developed a modern resource hub for Arweave.
+
+<img src="https://devjeff.info/github-logo.svg" width="20" alt="GitHub logo"> [react-native-svg-editor](https://github.com/DevChanQ/react-native-svg-editor) — Open-source library powering the SVG Editor.
+
+[Amiibo Concept Page](https://devjeff.info/amiibo?name=ken) — Interactive animation-heavy concept built with Vue.js & GSAP.
