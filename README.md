@@ -8,7 +8,7 @@
 
 <img src="https://devjeff.info/github-logo.svg" width="20" alt="GitHub logo"> [Pikabu Tweak](https://github.com/DevChanQ/pikabu) — Volume HUD tweak for jailbroken iOS devices.
 
-<img src="https://devjeff.info/images/svg-editor-logo.png" width="20" alt="SVG Editor logo"> [SVG Editor](https://thumbnaillab.app) — Cross-platform vector graphic editor built with React Native.
+<img src="https://devjeff.info/images/svg-editor-logo.png" width="20" alt="SVG Editor logo"> [SVG Editor](https://devjeff.info/thumbnaillab-site) — Cross-platform vector graphic editor built with React Native.
 
 <img src="https://devjeff.info/arweave.svg" width="20" alt="Arweave logo"> [Arweave Today](https://arweavehub.com/today) — Daily dose of Arweave news and updates.
 
